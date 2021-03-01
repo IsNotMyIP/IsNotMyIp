@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif "Header")](https://some-url.dev/)
 
 <!--
 **IsNotMyIP/IsNotMyIp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
