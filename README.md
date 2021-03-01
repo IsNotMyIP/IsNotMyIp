@@ -1,4 +1,4 @@
-## Hello World! <img src="https://github.com/IsNotMyIP/IsNotMyIp/blob/main/src/hello.gif?raw=true" width="50px"></>
+## Hello World! <img src="https://github.com/IsNotMyIP/IsNotMyIp/blob/main/src/hello.gif?raw=true" width="50px" / >
 
 <!--
 **IsNotMyIP/IsNotMyIp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
