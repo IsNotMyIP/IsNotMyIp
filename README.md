@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sean just</h1>
 <h3 align="center">A passionate Business Developer with Techie background 🤷‍♂️ from UK, based in Madrid.</h3>
-<p> > - 👨‍💻 check more about me [https://www.notion.so/Sean-Just-7b442d4982aa4661bd25548aef6e8db3](https://www.notion.so/Sean-Just-7b442d4982aa4661bd25548aef6e8db3) < </p>
+<h3> > - 👨‍💻 check more about me [https://www.notion.so/Sean-Just-7b442d4982aa4661bd25548aef6e8db3](https://www.notion.so/Sean-Just-7b442d4982aa4661bd25548aef6e8db3) < </h3>
 
 - 🔭 I’m currently working at Neoland [as a Project Manager](www.Neoland.es)
 
