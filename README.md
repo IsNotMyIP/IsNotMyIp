@@ -1,12 +1,11 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif "Header")](https://some-url.dev/)
 
 <!--
 **IsNotMyIP/IsNotMyIp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isnotmyip)](https://github.com/isnotmyip/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnotmyip">
 
 Here are some ideas to get you started:
 
