@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Neural Network**
 
-- 👯 I’m looking to collaborate on [as](as)
-
-- 🤝 I’m looking for help with [as](as)
+- 👯 I’m looking to collaborate with NGOs
 
 - 👨‍💻 check more about me [https://www.notion.so/Sean-Just-7b442d4982aa4661bd25548aef6e8db3](https://www.notion.so/Sean-Just-7b442d4982aa4661bd25548aef6e8db3)
 
