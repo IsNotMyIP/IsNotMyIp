@@ -3,9 +3,10 @@
 <!--
 **IsNotMyIP/IsNotMyIp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+![](https://img.shields.io/badge/wow-awesome-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnotmyip">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnotmyip"></>
 
 Here are some ideas to get you started:
 
