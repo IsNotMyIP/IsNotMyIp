@@ -2,13 +2,9 @@
 <h3 align="center">A passionate Business Developer with Techie background 🤷‍♂️ from UK, based in Madrid.</h3>
 <h3 align ="center"> 👨‍💻 check more about me at www.notion.so/Sean-Just-7b442d4982aa4661bd25548aef6e8db3 </h3>
 
-- 🔭 I’m currently working at Neoland [as a Project Manager](www.Neoland.es)
-
-- 🌱 I’m currently learning **Neural Network**
+- 🔭 I’m currently working at Neoland as a Project Manager
 
 - 👯 I’m looking to collaborate with NGOs
-
-
 
 - 💬 Ask me about **Startups!**
 
